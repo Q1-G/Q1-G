@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate front end developer who aspires to become a great backend developer too.</h3>
+<h3 align="center">I am passionate front end developer who aspires to become a great backend developer too.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=q1-g&label=Profile%20views&color=0e75b6&style=flat" alt="q1-g" /> </p>
 
