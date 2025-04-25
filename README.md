@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I am a passionate front end developer who aspires to become a great backend developer too.</h3>
+<h3 align="center">I am a passionate software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=q1-g&label=Profile%20views&color=0e75b6&style=flat" alt="q1-g" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **web & mobile applictaions**
 
-- 🌱 I’m currently learning **Linux systems and AWS devops**
+- 🌱 I’m currently learning **Game development with Unity**
 
-- 👯 I’m looking to collaborate on **E-commerce websites**
+- 👯 I’m looking to collaborate on **anything that I find challeging or for a good cause**
 
-- 🤝 I’m looking for help with **Backend knowledge**
+- 🤝 I’m looking for help with **becoming a better software developer and growing in knowledge everyday.**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,PosgresSQL,React and Kotlin**
+- 💬 Ask me about **hardware,Linux systems,HTML,CSS,JavaScript,PosgresSQL,MERN stack and T3 stack**
 
 - 📫 How to reach me **Qthetechguy@yahoo.com**
 
