@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **web & mobile applictaions**
 
-- 🌱 I’m currently learning **Game development with Unity**
+- 🌱 I’m currently learning **game development with Unity**
 
 - 👯 I’m looking to collaborate on **anything that I find challeging or for a good cause**
 
