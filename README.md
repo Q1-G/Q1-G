@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **becoming a better software developer and growing in knowledge everyday.**
 
-- 💬 Ask me about **hardware,Linux systems,HTML,CSS,JavaScript,PosgresSQL,MERN stack and T3 stack**
+- 💬 Ask me about **hardware, Linux systems, HTML, CSS, JavaScript, PosgresSQL, MERN stack and T3 stack**
 
 - 📫 How to reach me **Qthetechguy@yahoo.com**
 
