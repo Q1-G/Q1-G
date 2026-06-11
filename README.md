@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **hardware, Linux systems, HTML, CSS, JavaScript, PosgresSQL, MERN stack and T3 stack**
 
-- 📫 How to reach me **Qthetechguy@yahoo.com**
-
 - ⚡ Fun fact **Life is short, make the most of every day.**
 
 <h3 align="left">Languages and Tools:</h3>
